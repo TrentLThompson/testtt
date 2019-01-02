@@ -1,0 +1,19 @@
+---
+title: ""
+output:
+  html_document
+---
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<center><font size = 6><p style = "padding-left: 25px; padding-right: 25px"; align = center>Curbing Nonmedical Use of ADHD Medications On College Campuses: A Social Norms Based Approach</p></font></center>
+<div>&nbsp;</div>
+<center><font size =5><p>**Trent L. Thompson**<br>*Univ. of Pennsylvania*</p></font></center>
+<div>&nbsp;</div>
+<center><font size = 5><p>December 2018</p></font></center>
+<div>&nbsp;</div>
+<p style = "padding-left: 150px; padding-right: 150px"; align = justify><font size = 3>
+Using an established theoretical framework for diagnosing, measuring, and changing collective patterns of human behavior as well as existing empirical evidence, I propose a strategy for intervening on the widespread behavior that is the nonmedical use of prescription stimulant ADHD medications (e.g. Adderall®, Ritalin®, Vyvanse®, etc.) by undergraduate students at American universities. Specifically, I make the case that by endeavoring to uncover, measure, and then change the beliefs and expectations such students have surrounding prescription stimulant usage—especially that of their peers—it may be possible to curb illicit and injurious usage of these drugs on college campuses, with lasting effects.
+</p></font>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<center><font size = 3><p>[*Link to full paper.*](Thompson (2018)- Curbing Nonmedical Use of ADHD Medications On College Campuses.pdf)</p></font></center>
